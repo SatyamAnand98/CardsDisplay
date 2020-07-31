@@ -1,3 +1,7 @@
+Things to install before usage:
+sudo npm install react-bootstrap bootstrap
+sudo npm i react-google-login
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
