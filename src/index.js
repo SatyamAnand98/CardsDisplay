@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+
+// import App from './App';
 import * as serviceWorker from './serviceWorker';
+// import GoogleLogin from 'react-google-login';
+import Googlelogin from './Googlelogin'
+
+import './index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <Googlelogin />
   </React.StrictMode>,
   document.getElementById('root')
 );
