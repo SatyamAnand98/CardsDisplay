@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/i8Labs/static/css/main.e7d4d6c5.chunk.css",
-    "main.js": "/i8Labs/static/js/main.a37e3556.chunk.js",
-    "main.js.map": "/i8Labs/static/js/main.a37e3556.chunk.js.map",
-    "runtime-main.js": "/i8Labs/static/js/runtime-main.76f9d824.js",
-    "runtime-main.js.map": "/i8Labs/static/js/runtime-main.76f9d824.js.map",
-    "static/css/2.ea1b590f.chunk.css": "/i8Labs/static/css/2.ea1b590f.chunk.css",
-    "static/js/2.84b701d3.chunk.js": "/i8Labs/static/js/2.84b701d3.chunk.js",
-    "static/js/2.84b701d3.chunk.js.map": "/i8Labs/static/js/2.84b701d3.chunk.js.map",
-    "index.html": "/i8Labs/index.html",
-    "precache-manifest.f2e0011e4eacb01f984fe5c58c7978f2.js": "/i8Labs/precache-manifest.f2e0011e4eacb01f984fe5c58c7978f2.js",
-    "service-worker.js": "/i8Labs/service-worker.js",
-    "static/css/2.ea1b590f.chunk.css.map": "/i8Labs/static/css/2.ea1b590f.chunk.css.map",
-    "static/css/main.e7d4d6c5.chunk.css.map": "/i8Labs/static/css/main.e7d4d6c5.chunk.css.map",
-    "static/js/2.84b701d3.chunk.js.LICENSE.txt": "/i8Labs/static/js/2.84b701d3.chunk.js.LICENSE.txt",
-    "static/media/mobiscroll.min.css": "/i8Labs/static/media/icons_mobiscroll.c405c13e.ttf"
+    "main.css": "/CardsDisplay/static/css/main.82538075.chunk.css",
+    "main.js": "/CardsDisplay/static/js/main.fcc40896.chunk.js",
+    "main.js.map": "/CardsDisplay/static/js/main.fcc40896.chunk.js.map",
+    "runtime-main.js": "/CardsDisplay/static/js/runtime-main.6f6e6121.js",
+    "runtime-main.js.map": "/CardsDisplay/static/js/runtime-main.6f6e6121.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/CardsDisplay/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a04b791a.chunk.js": "/CardsDisplay/static/js/2.a04b791a.chunk.js",
+    "static/js/2.a04b791a.chunk.js.map": "/CardsDisplay/static/js/2.a04b791a.chunk.js.map",
+    "index.html": "/CardsDisplay/index.html",
+    "precache-manifest.cfc3ec7a1dac787b9b82a497a1f5458b.js": "/CardsDisplay/precache-manifest.cfc3ec7a1dac787b9b82a497a1f5458b.js",
+    "service-worker.js": "/CardsDisplay/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/CardsDisplay/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.82538075.chunk.css.map": "/CardsDisplay/static/css/main.82538075.chunk.css.map",
+    "static/js/2.a04b791a.chunk.js.LICENSE.txt": "/CardsDisplay/static/js/2.a04b791a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76f9d824.js",
-    "static/css/2.ea1b590f.chunk.css",
-    "static/js/2.84b701d3.chunk.js",
-    "static/css/main.e7d4d6c5.chunk.css",
-    "static/js/main.a37e3556.chunk.js"
+    "static/js/runtime-main.6f6e6121.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a04b791a.chunk.js",
+    "static/css/main.82538075.chunk.css",
+    "static/js/main.fcc40896.chunk.js"
   ]
 }
