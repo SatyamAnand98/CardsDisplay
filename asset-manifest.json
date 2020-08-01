@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/i8Labs/static/css/main.e7d4d6c5.chunk.css",
+    "main.js": "/i8Labs/static/js/main.a37e3556.chunk.js",
+    "main.js.map": "/i8Labs/static/js/main.a37e3556.chunk.js.map",
+    "runtime-main.js": "/i8Labs/static/js/runtime-main.76f9d824.js",
+    "runtime-main.js.map": "/i8Labs/static/js/runtime-main.76f9d824.js.map",
+    "static/css/2.ea1b590f.chunk.css": "/i8Labs/static/css/2.ea1b590f.chunk.css",
+    "static/js/2.84b701d3.chunk.js": "/i8Labs/static/js/2.84b701d3.chunk.js",
+    "static/js/2.84b701d3.chunk.js.map": "/i8Labs/static/js/2.84b701d3.chunk.js.map",
+    "index.html": "/i8Labs/index.html",
+    "precache-manifest.bea7107158f16a48249d603164205af6.js": "/i8Labs/precache-manifest.bea7107158f16a48249d603164205af6.js",
+    "service-worker.js": "/i8Labs/service-worker.js",
+    "static/css/2.ea1b590f.chunk.css.map": "/i8Labs/static/css/2.ea1b590f.chunk.css.map",
+    "static/css/main.e7d4d6c5.chunk.css.map": "/i8Labs/static/css/main.e7d4d6c5.chunk.css.map",
+    "static/js/2.84b701d3.chunk.js.LICENSE.txt": "/i8Labs/static/js/2.84b701d3.chunk.js.LICENSE.txt",
+    "static/media/mobiscroll.min.css": "/i8Labs/static/media/icons_mobiscroll.c405c13e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f9d824.js",
+    "static/css/2.ea1b590f.chunk.css",
+    "static/js/2.84b701d3.chunk.js",
+    "static/css/main.e7d4d6c5.chunk.css",
+    "static/js/main.a37e3556.chunk.js"
+  ]
+}
